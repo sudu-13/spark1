@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e855e831-3000-4633-999e-d19cfe538609" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spark1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb17/arrSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb17/break11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb17/charToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb17/maxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb17/pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb17/stringAndStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb22/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb22/animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb22/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb22/overriding1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb29/overloading1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb29/typeCasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/feb29/usingInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread19/DemoThread.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/feb17/break11.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cU5W4ThOY3Gp03hQpQFNrEnhur" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.DemoThread.executor": "Run",
+    "Application.Test.executor": "Debug",
+    "Application.arrSum.executor": "Debug",
+    "Application.break11.executor": "Run",
+    "Application.charToString.executor": "Run",
+    "Application.dog.executor": "Run",
+    "Application.maxNumber.executor": "Run",
+    "Application.overloading1.executor": "Run",
+    "Application.overriding1.executor": "Run",
+    "Application.pattern1.executor": "Run",
+    "Application.stringAndStringBuffer.executor": "Run",
+    "Application.stringDemo.executor": "Run",
+    "Application.typeCasting1.executor": "Run",
+    "Application.usingInterface.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.DemoThread">
+    <configuration name="DemoThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread19.DemoThread" />
+      <module name="spark1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feb22.Test" />
+      <module name="spark1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feb22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="break11" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feb17.break11" />
+      <module name="spark1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feb17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="overloading1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feb29.overloading1" />
+      <module name="spark1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feb29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="typeCasting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feb29.typeCasting1" />
+      <module name="spark1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feb29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usingInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="feb29.usingInterface" />
+      <module name="spark1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="feb29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoThread" />
+        <item itemvalue="Application.overloading1" />
+        <item itemvalue="Application.usingInterface" />
+        <item itemvalue="Application.typeCasting1" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e855e831-3000-4633-999e-d19cfe538609" name="Changes" comment="" />
+      <created>1708153352872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708153352872</updated>
+    </task>
+    <servers />
+  </component>
+</project>
